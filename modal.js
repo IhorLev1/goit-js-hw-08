@@ -50,5 +50,3 @@ function modalClose(event) {
     lightBoxImage.src = "#";
   }
 }
-
-modal;
